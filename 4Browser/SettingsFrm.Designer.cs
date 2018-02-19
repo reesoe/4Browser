@@ -152,6 +152,7 @@
             this.txtUrls2.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.txtUrls2.Size = new System.Drawing.Size(321, 137);
             this.txtUrls2.TabIndex = 16;
+            this.txtUrls2.WordWrap = false;
             // 
             // label2
             // 
